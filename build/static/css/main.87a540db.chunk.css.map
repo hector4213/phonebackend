@@ -1,0 +1,1 @@
+{"version":3,"sources":["notification.css"],"names":[],"mappings":"AAAA,OACI,sBAAuB,CACvB,qBAAsB,CACtB,cACJ","file":"main.87a540db.chunk.css","sourcesContent":[".error {\n    border: 2px solid green;\n    background-color: gray;\n    max-width: 25vw;\n}"]}
