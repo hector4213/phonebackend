@@ -97,7 +97,7 @@ const unknownEndpoint = (req, res) => {
   res.status(404).send({ error: "unknown endpoint" });
 };
 
-app.use(unknownEndpoint)
+app.use(unknownEndpoint) 
 
 const errorHandler = (error, req, res, next) => {
   console.log(error.message);
