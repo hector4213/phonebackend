@@ -108,7 +108,7 @@ const errorHandler = (error, req, res, next) => {
   }
 
   next(error);
-};
+}
 
 app.use(errorHandler);
 
